@@ -46,7 +46,7 @@
 
 ### 🔹 DEPLOY ON HEROKU
 
-  [![Click Here](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/toxiclover-tech/TOXIC-LOVER-MD)
+  [![Click Here](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/sir-bravin111/Artificial-assistance-A1--BXMD)
   
 ### 🔹 DEPLOY ON OTHER PLATFORMS
 - **Render:**  
